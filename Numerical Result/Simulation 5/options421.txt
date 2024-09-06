@@ -1,0 +1,11 @@
+9       
+2       
+1       
+58      
+mimic3  
+mimic3  
+AFT4long
+AFT1long
+gamm    
+0.7     
+0.1     
