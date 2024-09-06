@@ -7,5 +7,12 @@ Code and data of paper "Causal Effect Estimation in Survival Analysis with High 
    * Dimesion of predictor $X$
    * Number of factors
    * Dimension $d$
-   * Samplesize         ; F    ;beta  ;t1    ;t0    ;censoring;censoring rate
+   * Samplesize
+   * Type of factor generation
+   * Type of $\beta$
+   * Type of survival model of group 1
+   * Type of survival model of group 0
+   * Type of censoring generation
+   * Censoring rate
+     
    
